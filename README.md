@@ -1,6 +1,8 @@
-# DOI (Doimain information)
+# DOI (Domain Information)
 
 DOI is a stronger and neater interface to get domain and IP information through. It takes the best from known CLI tools such as `dig`, `host`, `whois` and `nslookup` and bundles it up into one tool.
+
+DOI can be found at [https://www.npmjs.com/package/doi](https://www.npmjs.com/package/doi)
 
 ## Installation
 DOI requires [Node.js](https://nodejs.org/en/) to run. And works on Windows, macOS or Linux.
